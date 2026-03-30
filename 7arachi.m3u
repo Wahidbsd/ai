@@ -52,12 +52,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://www.boxofficepro.fr/app/uploads/2019/01/logo-2.svg",
-https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/CANAL_PLAY.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rakuten-logo-png_seeklogo-484870.png ",
-https://raw.githubusercontent.com/raid35/channel-links/main/Rakuten.m3u
-
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: OSN  Germany HD" tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Germany_Flat_Round-1024x1024.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/gremani.m3u
 
