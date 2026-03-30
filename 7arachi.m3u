@@ -10,25 +10,16 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/EGYPT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="hbo" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFLIX_ACTION.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HULU/HULU.png",
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/HULU.m3u8
-
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://j.top4top.io/p_3720aduw31.png", 
-https://raid35.github.io/docs/Bein_CONACT.html
-
-#EXTINF:-1 tvg-id="" tvg-name="قنوات رياضية" tvg-logo="https://e.top4top.io/p_37208edb01.png", 
-https://raid35.github.io/docs/SPORT_UROP.html
-
 #EXTINF:-1 tvg-id="" tvg-name="OSTORA" tvg-logo="https://b.top4top.io/p_3696h7vs51.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg", 
+#EXTINF:-1 tvg-id="" tvg-name="8k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",
