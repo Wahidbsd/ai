@@ -1,39 +1,40 @@
+# ====================== dz alg ======================
 #EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sPxemZSCO_tP_6PiAbSFyke0S0lkgVzGx2I-cePadw&s=10 ",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
-
+# ====================== tunisia tn ======================
 #EXTINF:-1 tvg-id="" tvg-name="tunisia" tvg-logo="https://d.top4top.io/p_3704u4m261.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/tunisia.m3u
-
+# ====================== egypt ======================
 #EXTINF:-1 tvg-id="" tvg-name="egypt11" tvg-logo="https://a.top4top.io/p_3704sfi1x1.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/EGYPT.m3u
-
+# ====================== netflix hbo================
 #EXTINF:-1 tvg-id="" tvg-name="hbo" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/HBO/HBO.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/NETFLIX_ACTION.m3u
-
+# ====================== mbc ======================
 #EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1 
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
-
+# ====================== Palestine ======================
 #EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
-
+# ====================== ostora ======================
 #EXTINF:-1 tvg-id="" tvg-name="OSTORA" tvg-logo="https://b.top4top.io/p_3696h7vs51.jpg",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
-
+# ====================== 8k ======================
 #EXTINF:-1 tvg-id="" tvg-name="8k" tvg-logo="https://c.top4top.io/p_3678uvdqq1.jpg", 
 https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
-
+# ====================== alwan======================
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",
 https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
-
+# ====================== lx ======================
 #EXTINF:-1 tvg-id="" tvg-name="LX sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
-
+# ====================== Forevr ======================
 #EXTINF:-1 tvg-id="discovery.sa" tvg-name="AR: forever" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
-
+# ====================== yacine tv======================
 #EXTINF:-1 tvg-id="" tvg-name="YACINE TV" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
-
+# ====================== FRANCE s🇫🇷 ======================
 #EXTINF:-1 tvg-id="" tvg-name="france sports" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
 
@@ -42,13 +43,13 @@ https://raw.githubusercontent.com/raid35/channel-links/main/SSC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/falcon.m3u
-
+# ====================== movi ======================
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
-
+# ====================== nova🇫🇷 ======================
 #EXTINF:-1 tvg-id="" tvg-name="france" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/503/non_2x/france-flag-round-shape-free-png.png",
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
-
+# ====================== FRANCE can🇫🇷 ======================
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
