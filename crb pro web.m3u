@@ -40,10 +40,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
 #EXTINF:-1 group-title="🔥 FOREVER" tvg-name="Forever" tvg-logo="https://i.postimg.cc/3JY9W7QK/tv.png",Forever
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 
-# ====================== 📱 YACINE TV ======================
-#EXTINF:-1 group-title="📱 YACINE TV" tvg-name="Yacine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Android_logo_2019.svg",Yacine
-https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
-
 # ====================== 🇫🇷 FRANCE ======================
 #EXTINF:-1 group-title="🇫🇷 FRANCE" tvg-name="France Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",France Sports
 https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
@@ -59,10 +55,6 @@ https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 # ====================== 🎥 CANAL+ ======================
 #EXTINF:-1 group-title="🎥 CANAL+" tvg-name="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal%2B_logo.svg",Canal+
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
-
-# ====================== 🇪🇸 DAZN ======================
-#EXTINF:-1 group-title="🇪🇸 DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/DAZN_Logo.svg",DAZN
-https://raw.githubusercontent.com/raid35/channel-links/main/dazn-es.m3u
 
 # ====================== 🇵🇹 PORTUGAL ======================
 #EXTINF:-1 group-title="🇵🇹 PORTUGAL" tvg-name="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",Portugal
