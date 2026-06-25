@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="deletecd" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
+#EXTINF:-1 tvg-name="cyfou" group-title="delleted",cyfou
+https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/cyfou.m3u 
 #EXTINF:-1 tvg-name="main ott" group-title="main ott",ott min
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/erge%20mac%20adress.m3u
 #EXTINF:-1 tvg-name="saadjarifull" group-title="saadjarifull",saadjarifull
@@ -11,5 +13,4 @@ https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/Hussei
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
 #EXTINF:-1 tvg-name="max" group-title="Maxxx",
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
-#EXTINF:-1 tvg-name="cyfou" group-title="cyfou",
-https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/cyfou.m3u
+
