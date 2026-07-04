@@ -1,0 +1,65 @@
+#EXTM3U
+# قائمة القنوات والروابط - مصححة ومنظمة
+
+# ============================================================
+# ====================== روابط مباشرة ======================
+# ============================================================
+
+#EXTINF:-1 tvg-name="Channel 248606" group-title="General",Channel 248606
+http://legendking.net/imaneomar/e3hzfxuo./248606
+
+#EXTINF:-1 tvg-name="Channel 466596" group-title="General",Channel 466596
+http://megoaroma.online:80/live/Waielxsafwatx/sm03111206/466596.ts
+
+#EXTINF:-1 tvg-name="Channel 682950" group-title="General",Channel 682950
+http://100main.cc:80/MAGRVJFSLF/OImWCkQqCH/682950
+
+#EXTINF:-1 tvg-name="Viber TV 35" group-title="General",Viber TV 35
+http://ytrf.vibertv.cyou/live/11/11/35.m3u8
+
+# ============================================================
+# ====================== روابط API ==========================
+# ============================================================
+
+#EXTINF:-1 tvg-name="API: fastshare1 (M3U)" group-title="API Links",fastshare1 M3U
+http://fastshare1.com:80/get.php?username=Hussein456124&password=5478243659&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-name="API: fastshare1 (JSON)" group-title="API Links",fastshare1 JSON
+http://fastshare1.com:80/player_api.php?username=Hussein456124&password=5478243659&action=get_live_streams
+
+#EXTINF:-1 tvg-name="API: fastshare1 (Categories)" group-title="API Links",fastshare1 Categories
+http://fastshare1.com:80/player_api.php?username=Hussein456124&password=5478243659&action=get_live_categories
+
+#EXTINF:-1 tvg-name="API: atrupo4k (M3U)" group-title="API Links",atrupo4k M3U
+http://atrupo4k.com:8080/get.php?username=saadjari&password=id7r66uq&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-name="API: atrupo4k (JSON)" group-title="API Links",atrupo4k JSON
+http://atrupo4k.com:8080/player_api.php?username=saadjari&password=id7r66uq&action=get_live_streams
+
+#EXTINF:-1 tvg-name="API: atrupo4k (Categories)" group-title="API Links",atrupo4k Categories
+http://atrupo4k.com:8080/player_api.php?username=saadjari&password=id7r66uq&action=get_live_categories
+
+#EXTINF:-1 tvg-name="API: 003391 (M3U)" group-title="API Links",003391 M3U
+http://003391.xyz:80/get.php?username=63a36f25c6&password=65abf200d8&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-name="API: 003391 (JSON)" group-title="API Links",003391 JSON
+http://003391.xyz:80/player_api.php?username=63a36f25c6&password=65abf200d8&action=get_live_streams
+
+#EXTINF:-1 tvg-name="API: 003391 (Categories)" group-title="API Links",003391 Categories
+http://003391.xyz:80/player_api.php?username=63a36f25c6&password=65abf200d8&action=get_live_categories
+
+#EXTINF:-1 tvg-name="API: 100main (M3U)" group-title="API Links",100main M3U
+http://100main.cc:80/get.php?username=MAGRVJFSLF&password=OImWCkQqCH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-name="API: 100main (JSON)" group-title="API Links",100main JSON
+http://100main.cc:80/player_api.php?username=MAGRVJFSLF&password=OImWCkQqCH&action=get_live_streams
+
+# ============================================================
+# ====================== روابط أخرى ======================
+# ============================================================
+
+#EXTINF:-1 tvg-name="kalaasmr Series Info" group-title="Other",kalaasmr Series Info
+http://kalaasmr.blog:8080/player_api.php?action=get_series_info&username=638109080&password=95827171997&series_id=15433
+
+#EXTINF:-1 tvg-name="asmr4k Image" group-title="Other",asmr4k Image
+http://asmr4k.pro:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3Q39AIoXC_3o-TIPqlW_Qx92DcI6jmYHP9k0S_RHm1fgf-05eWaRjzmrVRQ0w34fU.png
