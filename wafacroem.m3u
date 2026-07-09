@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1,beIN SPORTS MAX 3
+http://re.mediox.online/live/33523510/index.m3u8
+#EXTINF:-1,beIN SPORTS MAX 1
+https://stm.linkip.org/live/1957_.m3u8
+#EXTINF:-1,beIN SPORTS MAX 2
+https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
+#EXTINF:-1,beIN SPORTS MAX 4
+https://stm.linkip.org/live/1966_.m3u8
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN MMN
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 1 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402388&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 3 SD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402381&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 4 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402379&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 5 SD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402375&extension=m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Sports 1 HD
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Sports 1 4K
+http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-title="Sports", beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" ,FUSSBALL TV 1 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"439baeaabc0554ce99d7e477cd4265cc":"894561ace1d0a9695706fc3df32b0477","9345af2789b95b1ab550a7765bc6c66c":"cc15f780727bc3062c0a46540b684f79","ee517fd3fc59564dac47cc02905489db":"e03b4abba4975dca25865384b503c35c","c667a236624d5dfaabd03ae66bb5fc3f":"afe57367d056f0c0059ec27ae6812461"}
+https://no-batpari.opensourceflix.workers.dev/asdfg.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" ,FUSSBALL TV 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png" ,Unite8 Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xfireflix.my.id/mac.php?id=373312.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png" ,Unite8 Sports 2 HD
+http://66.102.126.10:8000/play/a018/index.m3u8
+#EXTINF:-1,4K
+https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
+#EXTINF:-1,TW Sports 
+https://github.com/najikatv/xpola-player/raw/39d15fac1bf63327210fe44ba7c8d382badeacea/Professional2.m3u8
+#EXTINF:-1 tvg-name="MBC+ Drama " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/MBC%2B_Drama.jpeg" group-title="Arabic",MBC+ Drama 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/320px-MBC_Drama_Logo.svg.png" group-title="Arabe",MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC Drama USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/320px-MBC_Drama_Logo.svg.png" group-title="Arabe",MBC Drama USA
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MBC_1_Logo.svg/500px-MBC_1_Logo.svg.png" group-title="Arabe",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/250px-MBC2_Logo.svg.png" group-title="Arabe",MBC 2
+http://213.57.91.138:8000/play/a05k
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png" group-title="Kids",MBC 3 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/240px-MBC_4_TV_Channel_Logo.png" group-title="Arabe",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="Arabe",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-name="MBC ALIRAQ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/320px-MBC_Iraq.svg.png" group-title="Arabic",MBC ALIRAQ 
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1  tvg-name="MBC Masr " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="Arabic",MBC Masr 
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1  tvg-name="MBC Masr 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="Arabic",MBC Masr 2 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-name="SpaceToon" tvg-logo="http://bl3rbe.net/up/gywYIMe1.png" group-title="Kids",SpaceToon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+#EXTINF:-1  tvg-name="Zee Alwan" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Entertainment",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Documentary الجزيرة الوثائقية" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="Factual",Al Jazeera Documentary الجزيرة الوثائقية
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-name="Aljazeera قناة الجزيرة" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/06/Al-Jazeera-News-Logo-120-x-150.png" group-title="News", Aljazeera قناة الجزيرة
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-name="Aljazeera Mubasher الجزيرة مباشر" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/05/Al-Jazeera-Mubasher-31.png" group-title="News", Aljazeera Mubasher الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-name="Alaraby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Al_Araby_TV_Network_Logo.png/211px-Al_Araby_TV_Network_Logo.png" group-title="News",Alaraby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1  tvg-name="Sharjah Quran الشارقة" tvg-logo="https://maraya.faulio.com/storage/mediagallery/5f/93/fullhd_112f3cfd73b1e9dbf22ca883eeba9c21051b3cd6.png" group-title="Radio",Sharjah Quran الشارقة
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Al Arabiya HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alarabiya-ae.png" group-title="Arabe",قناة العربية Al Arabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Al Arabiya Business " tvg-logo="https://www.lyngsat.com/logo/tv/aa/alarabiya-business-sa.png" group-title="Arabe",Al Arabiya Business 
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Chada TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="Arabe",Chada TV
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",2M MAROC 
+http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/Fe7UwE9owx/751961314347/94?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
+#EXTINF:-1 tvg-id="2MMonde.ma@SD",2M Monde 2026
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",2M MAROC 
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MA:ALOULA.INT*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/snrt_110.png" group-title="MAROC*",MA:ALOULA.INT*
+http://81637.org:2052/ibPVHswWxA/ABWNt8DFby/509
+#EXTINF:-1 tvg-ID="" tvg-name="MA:.AL-Oula-Maroc.HD**" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/snrt_110.png" group-title="MAROC*",MA:.AL-Oula-Maroc.HD**
+http://81637.org:2052/ibPVHswWxA/ABWNt8DFby/510
+#EXTINF:-1 tvg-ID="" tvg-name="MA:.AL-Oula-Maroc.FHD*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/snrt_110.png" group-title="MAROC*",MA:.AL-Oula-Maroc.FHD*
+http://81637.org:2052/ibPVHswWxA/ABWNt8DFby/511
+#EXTINF:-1 tvg-ID="" tvg-name="MA:ALMAGHRIBIA*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/snrt_510.png" group-title="MAROC*",MA:ALMAGHRIBIA*
+http://81637.org:2052/ibPVHswWxA/ABWNt8DFby/512
+#EXTINF:-1 tvg-ID="" tvg-name="MA:ALMAGHRIBIA.NEWS*" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/snrt_510.png" group-title="MAROC*",MA:ALMAGHRIBIA.NEWS*
+http://81637.org:2052/ibPVHswWxA/ABWNt8DFby/513
+#EXTINF:-1 tvg-id="┃AR┃  TNT ARRYADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",ARRYADIA HD 
+http://81637.org:2052/ibPVHswWxA/ABWNt8DFby/517
+#EXTINF:-1 tvg-id="┃AR┃  TNT ARRIADIA T2 HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRIADIA HD 
+http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/725?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
+#EXTINF:-1 tvg-id="┃MA┃  MEDI 1 MAGHREB HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="Arabe",MEDI 1 MAGHREB HD
+http://81637.org:2052/ibPVHswWxA/ABWNt8DFby/526
+#EXTINF:-1 tvg-id="|AR| QURAN KAREEM TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/makkah-tv-sa.png" group-title="Quran",QURAN KAREEM TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="|AR| BAHRAIN QURAN" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-the-holy-quran-bh.png" group-title="Quran",BAHRAIN QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Al Quran " tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Quran",┃QURAN┃  Al Quran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqraa-arabic-sa.png" group-title="Quran",|Quran| IQRAA
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
