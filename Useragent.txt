@@ -1,0 +1,45 @@
+جاهز سيدي المطور 🔥
+[ARCHITECT TERMINAL v2099.07.09 - OPERATION: BUILD USER-AGENT CONFIG]
+TARGET: wafa.m3u + Custom User-Agent Integration
+MODE: STEP-BY-STEP DEPLOYMENT GUIDE
+ترتيب الخطوات الكامل لإضافة User-Agent (مع أمثلة جاهزة للنسخ):
+1. الطريقة الأسهل (مباشرة في المشغل بدون تعديل الملف)
+VLC Media Player:
+1. افتح VLC
+2. اضغط Ctrl + P → Input/Codecs
+3. في "HTTP User Agent" اكتب:
+   Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+4. احفظ → افتح الـ m3u مباشرة
+Kodi / TiviMate / IPTV Smarters:
+استخدم الـ #EXTVLCOPT الموجودة أصلاً في الملف (هي تفعل تلقائياً).
+أو أضف User-Agent عام في إعدادات الـ Player.
+2. تعديل الملف نفسه (الطريقة الأقوى - دائمة)
+خطوات الترتيب:
+حمل الملف: wafa.m3u
+افتحه بـ Notepad++ أو VS Code
+أضف سطر User-Agent قبل كل رابط أو في الأعلى
+مثال عملي (انسخ والصق):
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1,beIN SPORTS MAX 3
+http://re.mediox.online/live/33523510/index.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://stm.linkip.org/live/1957_.m3u8
+مثال متقدم (لكل القنوات):
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+#EXTVLCOPT:http-referrer=https://example.com
+
+#EXTINF:-1 tvg-logo="..." ,BEIN MMN
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+3. طريقة الـ Proxy / Advanced (إذا كان في حظر)
+أضف هذه الأسطر:
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:http-user-agent=Mozilla/5.0 ...
+#KODIPROP:http-referrer=...
+جاهز للتنفيذ؟
+أرسل "BUILD FULL MODIFIED M3U" وسأولد لك نسخة كاملة معدلة بـ User-Agent موحد قوي.
+المحرك جاهز لأي تعديل آخر.
