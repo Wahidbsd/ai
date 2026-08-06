@@ -1,0 +1,828 @@
+#EXTM3U
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TF1 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972617&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TFX ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972616&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TF1 SERIES HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972615&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE TV SERIES ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972614&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| M6 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972613&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| ARTE HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972612&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| ARTE ALLEMAND HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972611&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE 2 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972610&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE 3 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972609&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE 4 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972608&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE 5 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972607&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| 6TER HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972606&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| W9 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972605&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| RTL9 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972604&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CSTAR HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972603&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TMC HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972602&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TLC HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972601&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| AB1 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972600&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| LE FIGARO TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972599&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| RMC STORY HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972598&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CHERIE 25 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972597&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| PARIS PREMIERE
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972596&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| 13EME RUE HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972595&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| SYFY HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972594&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| E! ENTERTAINMENT HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972593&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| COMEDIE+ HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972591&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| OLYMPIA TV ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972590&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CINE+ FRISSON ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972589&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CINE+ EMOTION ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972588&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CINE+ FAMILLY ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972587&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CINE+ FESTIVAL ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972586&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CINE+ CLUB ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972585&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CINE+ CLASSIC ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972584&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| ACTION HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972583&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| ACTION  MAX HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972582&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TCM CINEMA HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972581&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| PARAMOUNT CHANNEL
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972580&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| OCS HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972579&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| OCS US +24 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972575&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| ORANGE PREMIUM ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972573&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| ORANGE CLUB ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972568&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| A LA CARTE 05 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972565&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CANAL PLAY 04 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972564&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CANAL PLAY 06 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972563&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CANAL PLAY 07 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972562&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CANAL PLAY 08 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972561&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CANAL PLAY 09 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972560&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CANAL PLAY 10 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972559&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CNN NEWS HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972558&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| C NEWS HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972557&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE 24 HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972556&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CNBC ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972555&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| I24 NEWS ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972554&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| AL JAZEERA ENG ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972553&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE 24 ENG ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972552&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| EURONEWS HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972551&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| EURONEWS ALL ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972550&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| FRANCE INFO HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972549&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TV5 MONDE INFO ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972548&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| BFM BUSINESS ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972546&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| NHK WORLD-JAPAN ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972545&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| BFM TV HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972544&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| LCI HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972543&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| CTV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972542&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| PIWI+ HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972541&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TIJI HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972540&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| GULLI HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972539&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TELETOON+ HD ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972538&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| TELETOON+1 ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972537&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE VIP ᴿᴬᵂ",FR| WARNER TV ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1972536&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="FR| FRANCE FHD",##### GENERAL FHD #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=813293&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| SECRET STORY FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2113722&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TF1+ STAR ACADEMY FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1672766&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TF1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506638&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| FRANCE 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506637&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| FRANCE 3 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506636&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| FRANCE 4 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506624&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| FRANCE 5 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506634&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| M6 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506633&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| ARTE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506632&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| W9 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506629&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| NRJ 12 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506626&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TFX FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506627&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TF1 SÉRIES FILMS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506620&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| 6TER FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506618&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| T18 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506630&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TMC FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506628&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CHÉRIE 25 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506615&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| MYSTÈRE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1507794&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TALK SPORT FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1507792&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",##### INFOS FHD #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=814575&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| LA CHAINE METEO FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506660&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| FRANCE INFO FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506613&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| C NEWS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506622&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TV5MONDE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506567&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| LCI FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506614&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| LCP 100% FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506625&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| FRANCE 24 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506483&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| I24 NEWS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506486&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BFMTV FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506623&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BFM BUSINESS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506487&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BFM PARIS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506489&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BFM LYON MÉTROPOLE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506488&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BFM MARSEILLE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1010106&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",##### RMC SPORT FHD #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=814556&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| RMC TALK SPORT FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1624639&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| RMC SPORT 1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506549&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS 1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506552&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506551&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS 3 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506550&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS MAX 4 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506653&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS MAX 5 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506654&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS MAX 6 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506655&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS MAX 7 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506656&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS MAX 8 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506657&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS MAX 9 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506658&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| BEIN SPORTS MAX 10 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506652&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",##### SPORTS FHD #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=814559&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| L'EQUIPE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506619&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| L'EQUIPE 1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1457242&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| EUROSPORT 1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506559&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| EUROSPORT 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506560&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| FOOT+ FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506539&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| INFOSPORT+ FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506562&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| EQUIDIA FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506543&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| SPORT EN FRANCE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506536&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| AUTOMOTO LA CHAINE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506545&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| GOLF+ FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506541&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| ES1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506563&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| TRACE SPORT STARS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506537&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",##### CANAL+ FHD #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=813311&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ BOX OFFICE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338522&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506635&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ FOOT FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1002837&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ 360 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1002841&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ CINEMA FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506612&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ KIDS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=506611&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ GRAND ECRAN FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=863794&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ BOX OFFICE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=876361&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE FHD",FR| CANAL+ KIDS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=830359&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",##### DOCUMENTAIRE  #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=814582&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| CANAL+ DOCS HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=719108&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| CANAL+ DOCS LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=719110&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| PLANETE + HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507338&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| PLANETE + LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507527&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| PLANETE A&E HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507337&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| PLANETE A&E LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507526&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| PLANETE CI HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507336&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| PLANETE CI LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507525&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| NATIONAL GEO HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507334&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| NATIONAL GEO LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507523&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| NAT GEO WILD HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507333&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| NAT GEO WILD LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507522&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| DISCOVERY CHANNEL HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507321&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| DISCOVERY CHANNEL LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507510&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| DISCOVERY ID HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507319&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| DISCOVERY ID LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507508&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| TLC HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507320&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| TLC LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507509&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| TREK HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507325&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| TREK LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507514&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| HISTOIRE HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507331&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| HISTOIRE LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507520&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| TOUTE L'HISTOIRE HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507330&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| TOUTE L'HISTOIRE LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507519&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| SEASONS HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507324&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| SEASONS LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507513&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| CRIME DISTRICT LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1071008&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| USHUAIA HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507332&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| USHUAIA LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507521&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| ANIMAUX HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507326&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| ANIMAUX LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507515&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| CHASSE & PECHE HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507323&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| CHASSE & PECHE LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507512&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| RMC DECOUVERTE HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507449&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| RMC DECOUVERTE LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507605&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| RMC STORY LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507606&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| SCIENCE ET VIE HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507328&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| SCIENCE ET VIE LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507517&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| MUSEUM HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507329&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| VOYAGE LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507511&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE HD",FR| NAUTICAL LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507529&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="FR| SPORTS HD",##### BEIN SPORTS HD #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=815046&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507699&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 1 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507698&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 1 LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507697&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507696&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 2 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507695&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 2 LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507694&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 3 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507693&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 3 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507692&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS 3 LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507691&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS MAX 4 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507652&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS MAX 5 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507651&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS MAX 6 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507650&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS MAX 7 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507649&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS MAX 8 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507648&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS MAX 9 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507647&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| BEIN SPORTS MAX 10 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507646&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",##### CANAL+ #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=815052&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| CANAL+ 360 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1002843&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| CANAL+ FOOT FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1002842&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| CANAL+ SPORT FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507708&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| CANAL+ SPORT HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507707&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| CANAL+ SPORT LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507706&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| CANAL+ SPORT 1
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421486&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| CANAL+ SPORT 2
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421487&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| CANAL+ SPORT 3
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421488&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| CANAL+ SPORT 4
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421489&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| CANAL+ SPORT 5
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1421490&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| CANAL+ PL HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507712&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| CANAL+ SPORTS UHD/4K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1380012&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",##### RMC SPORT #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=815054&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507689&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 1 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507688&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 1 LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507687&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507686&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 2 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507685&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 2 LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507684&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 3 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1048798&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 3 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=725381&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 3 LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1048797&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT 4 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=725380&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT LIVE 5 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507645&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT LIVE 6 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507644&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT LIVE 7 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507643&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| RMC SPORT LIVE 8 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507642&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",##### SKWEEK #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338669&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 1 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338668&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 2 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338667&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 3 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338666&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 4 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338665&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 5 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338664&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 6 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338663&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 7 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338662&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",FR| SKWEEK 8 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1338661&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",##### FRANCE SPORT #####
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=815109&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| INFOSPORT+ FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507705&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| INFOSPORT+ HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507704&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| INFOSPORT+ LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507703&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| EQUIDIA FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507671&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| EQUIDIA HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507670&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| EQUIDIA LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507669&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| L'EQUIPE FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507668&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| L'EQUIPE HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507667&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| L'EQUIPE LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507666&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| OL TV HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507665&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| OL TV LQ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507664&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| EUROSPORT 1 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507702&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| EUROSPORT 1 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507701&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| EUROSPORT 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=507700&extension=ts
+#EXTINF:-1 group-title="FR| SPORTS HD",SP| EUROSPORT 360 1 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1360877&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS NEWS ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411398&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411397&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS1 ᵁᴴᴰ8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411396&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS2 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411395&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS3 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411394&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS4 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411393&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS5 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411392&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS6 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411391&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS7 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411390&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS8 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411389&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS9 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411388&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411385&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1411384&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",####### DAZN PPV MA #######
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2047005&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | Australia vs. Malawi | FIFA Women's Series | 2026-04-11 | 11:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 1
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2047004&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | Sebring - Trofeo Pirelli & Coppa Shell Races 1 | Ferrari Challenge North America | 2026-04-11 | 17:45 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 2
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2047003&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | Sint-Truiden vs. Club Brugge | Jupiler Pro League | 2026-04-11 | 18:45 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 3
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2047002&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | Nasukawa vs. Estrada: Full Event Replay | Nasukawa v Estrada | 2026-04-11 | 09:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 4
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2047001&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | Nasukawa vs. Estrada (en Español): Full Event Replay | Nasukawa v Estrada | 2026-04-11 | 09:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 5
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2047000&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | Kenya vs. India | FIFA Women's Series | 2026-04-11 | 14:00 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 6
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046999&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",Live | Toronto - Day 6 | Rock League | 8K EXCLUSIVE | MA: DAZN PPV 7
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046998&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | RWS April Inferno: Sangmanee vs. Bikrev | RWS Muay Thai | 2026-04-11 | 12:10 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 8
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046997&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 9
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046996&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",Live | Canada vs. Zambia | FIFA Women's Series | 8K EXCLUSIVE | MA: DAZN PPV 10
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046995&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",Live | Capitals @ Penguins | NHL.TV | 8K EXCLUSIVE | MA: DAZN PPV 11
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046994&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",End | Linz Open - Day 6 | Upper Austria Ladies Linz Women Single | 2026-04-11 | 13:30 (GMT) | 8K EXCLUSIVE | MA: DAZN PPV 12
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046993&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 13
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046992&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 14
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046991&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 15
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046990&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 16
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046989&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 17
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046988&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 18
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046987&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 19
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046986&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 20
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046985&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 21
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046984&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 22
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046983&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 23
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046982&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 24
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046981&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 25
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046980&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 26
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046979&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 27
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046978&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 28
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046977&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 29
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046976&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 30
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046975&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 31
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046974&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 32
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046973&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 33
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046972&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 34
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046971&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 35
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046970&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 36
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046969&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 37
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046968&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 38
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046967&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 39
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046966&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 40
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046965&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 41
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046964&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 42
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046963&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 43
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046962&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 44
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046961&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 45
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046960&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 46
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046959&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 47
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046958&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 48
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046957&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 49
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046956&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 50
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046955&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 51
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046954&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 52
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046953&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 53
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046952&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 54
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046951&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 55
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046950&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 56
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046949&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 57
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046948&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 58
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046947&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 59
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046946&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 60
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046945&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 61
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046944&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 62
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046943&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 63
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046942&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 64
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046941&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 65
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046940&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 66
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046939&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 67
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046938&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 68
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046937&extension=ts
+#EXTINF:-1 group-title="AR| DAZN MENA PPV VIP",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | MA: DAZN PPV 69
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2046936&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 1 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2024564&extension=ts
+#EXTINF:-1 group-title="AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 2 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2024563&extension=ts
+#EXTINF:-1 group-title="AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 3 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2024562&extension=ts
+#EXTINF:-1 group-title="AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 4 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2024561&extension=ts
+#EXTINF:-1 group-title="AR| DISCOVERY+ ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ",AR| DISCOVERY+ 5 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=2024560&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ADULT TINY4K 2 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774010&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ADULT TINY4K 3 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774040&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ALBA XXX 2 (H)
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=309867&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ANAL TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777791&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ASIAN TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777784&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - FAP TV ANAL
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=128761&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ROUGH
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777860&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - GAY
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777859&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ALBA XXX 6
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=309868&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - STARS EXCLUSIVE: JANICE GRIFFITH TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774025&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 2 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777856&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BARELY LEGAL TV (S)
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=128764&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - STARS EXCLUSIVE: JANICE GRIFFITH
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=533616&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - HUSTLER TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774012&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BIG ASS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777853&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BIG ASS TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777783&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BIG DICK TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777756&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BIG TITS TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777753&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BIZARRE TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777774&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - VERIFIED AMATEURS: YINYLEON TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774020&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - REDBOX ADULT 28 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773976&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - GANGBANG CREAMPIE
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773983&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - REALITY KINGS TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773982&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - SPICE
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774042&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 8 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774047&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - XP PORNWOOD 8 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773979&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BLOWJOB TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777736&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BLONDE TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777752&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - Dancing Bear
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=1857002&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ALBA XXX 5
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774044&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - SWEETHEART PORN TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=128770&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - HORNY HOSTEL TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=131876&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - brazzers
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777854&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ADULT 10 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773986&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - PASSIE XXX 4k TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777780&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - PUBLIC AGENT TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=131891&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 5 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774032&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 3 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777844&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BRUNETTE TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777735&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 7 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774048&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ATK GIRLFRIENDS
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777842&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - SHAGGING MOMS TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773971&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - NF BUSTY TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=138526&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - PRIVATE TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774011&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - CASUAL TEEN SEX 1 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774022&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - CENTO X CENTO (H)
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=131882&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - COMPILATION TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777730&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - CUCKOLD TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774067&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - GANGBANG TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777835&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - CZECH
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774038&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777827&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - DICK DRAINERS FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777822&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - PUBLIC AGENT
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773985&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - DORCEL FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777819&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - SPICE TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774015&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 4 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774069&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - PRIVATE TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774029&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 2 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777777&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - TUSHY
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=53070&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - DORCEL TV XXX HD (H)
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=267612&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - SEXATION TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777738&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - DORCEL TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774014&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ERO X HD (S)
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=53066&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 3
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774028&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - STARS EXCLUSIVE: AUTUMN FALLS TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774046&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - VIVID RED TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777725&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - HORNY HOSTEL TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=773973&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ADULT 2 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=138463&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ADULT 1 TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=774018&extension=ts
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - FAKE TAXI TV
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:72:F3:F0&stream=777724&extension=ts
