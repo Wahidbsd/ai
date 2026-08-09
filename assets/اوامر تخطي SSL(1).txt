@@ -1,0 +1,45 @@
+-----------------------------------------------------------------------------------------------------------------------
+
+اوامر التثبيت 🫶🏻
+
+termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install python -y
+
+pip install ApkPatcherX
+
+pip install --upgrade ApkPatcherX
+
+curl -Ls https://github.com/TechnoIndian/Tools/releases/download/Tools/ApkPatcher.sh | bash
+
+pip install --force-reinstall https://github.com/TechnoIndian/ApkPatcher/archive/refs/heads/main.tar.gz
+
+pip install --force-reinstall https://github.com/TechnoIndian/ApkPatcher/archive/refs/heads/main.zip
+
+termux-setup-storage
+
+pkg i python git -y && pip install --force-reinstall git+https://github.com/TechnoIndian/ApkPatcher.git
+
+------------------------------------------------------------------------------------------------------
+
+امر الكسر 
+اما 
+ApkPatcher -i /storage/emulated/0/ssl/'test.apk' -a
+
+او 
+
+ApkPatcher -i /storage/emulated/0/ssl/'test.apk' -f
+
+--------------------------------------------------------------------
+اذا واجهت مشكله في openjdk17 
+الصق الاوامر بالتسلسل 
+
+dpkg --configure -a
+pkg update && pkg upgrade
+pkg install openjdk-17
+وثم استخدم امر الكسر 
+
+الشرح بواسطه 
+https://t.me/used4
+https://t.me/viewxtv 
+https://t.me/TVTOOLS
+https://t.me/hiiq3
+تلبعنا لا تنسى🙄🫶🏻❤️‍🔥
