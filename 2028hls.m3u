@@ -1,0 +1,976 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT",FR: CANAL+ FOOT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8111.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT",FR: CANAL+ SPORT 360
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25959.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT",FR: CANAL+ SPORT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8008.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT",FR: CANAL+ PREMIER LEAGUE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8006.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8298.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1 HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57554.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT",FR: BEIN SPORTS 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8299.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8300.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8301.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8302.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8303.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8304.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8305.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8306.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8307.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_1.png" group-title="FR | SPORT",FR: EUROSPORT 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8313.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_2.png" group-title="FR | SPORT",FR: EUROSPORT 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8314.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8315.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_2.png" group-title="FR | SPORT",FR: EUROSPORT 360 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8316.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_3.png" group-title="FR | SPORT",FR: EUROSPORT 360 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8317.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="FR | SPORT",FR: RMC SPORT 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8338.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT",FR: RMC SPORT 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8339.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="FR | SPORT",FR: RMC SPORT 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8340.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="FR | SPORT",FR: RMC SPORT 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8341.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT",FR: RMC SPORT 5 LIVE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8342.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/INFOSPORT.png" group-title="FR | SPORT",FR: INFOSPORT+
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8214.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EQUIDIA.png" group-title="FR | SPORT",FR: EQUIDIA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8109.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/L_EQUIPE.png" group-title="FR | SPORT",FR: L EQUIPE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8126.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AUTOMOTO.png" group-title="FR | SPORT",FR: AUTOMOTO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8085.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GOLF.png" group-title="FR | SPORT",FR: GOLF+
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57342.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58350.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 10
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58351.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 11
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58352.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 12
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58353.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 13
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58354.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 14
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58355.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 15
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58356.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 16
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58357.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SPORT_EN_FRANCE.png" group-title="FR | SPORT",FR: SPORT EN FRANCE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58367.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/olplay.png" group-title="FR | SPORT",FR: OLPLAY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58882.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 01 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74007.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 03 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74008.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 02 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74009.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 06 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74010.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 07 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74011.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 04 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74012.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 05 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74013.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 08 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74014.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 09 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74015.m3u8
+#EXTINF:-1 tvg-logo="https://lo1.in/us/displus.png" group-title="FR | SPORT",FR: DISNEY EVENTS 10 [EVENT ONLY]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74016.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25106.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25107.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25108.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25110.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25109.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 6
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25111.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 7
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25112.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25118.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25119.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25120.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/49563.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/49564.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/49565.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/49566.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25113.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25114.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25115.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="ARAB | BEIN",AR: BEIN SPORTS NBA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25116.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSNEWS.png" group-title="ARAB | BEIN",AR: BEIN SPORTS NEWS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25117.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="ARAB | BEIN",AR: BEIN SPORTS XTRA 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25121.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/bedayatv.png" group-title="ARAB | BEIN",AR: BEDAYA TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25094.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinbaraem.png" group-title="ARAB | BEIN",AR: BEIN BARAEM
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25091.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beindrama.png" group-title="ARAB | BEIN",AR: BEIN DRAMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25095.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beindreamworks.png" group-title="ARAB | BEIN",AR: BEIN DREAMWORKS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25096.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beingourmet.png" group-title="ARAB | BEIN",AR: BEIN GOURMET
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25098.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinjunior.png" group-title="ARAB | BEIN",AR: BEIN JUNIOR
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25099.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinmovies1premiere.png" group-title="ARAB | BEIN",AR: BEIN MOVIES 1 PREMIERE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25100.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinmovies2action.png" group-title="ARAB | BEIN",AR: BEIN MOVIES 2 ACTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25101.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinmovies3drama.png" group-title="ARAB | BEIN",AR: BEIN MOVIES 3 DRAMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25102.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinmovies4family.png" group-title="ARAB | BEIN",AR: BEIN MOVIES 4 FAMILY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25103.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinseries1.png" group-title="ARAB | BEIN",AR: BEIN SERIES 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25104.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinseries2.png" group-title="ARAB | BEIN",AR: BEIN SERIES 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25105.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports8.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 8
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58396.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/bein/beinsports9.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58397.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_1.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57566.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_2.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57567.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_3.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57568.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_4.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57569.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_5.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57570.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_6.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 6
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57571.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_7.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 7
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57572.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_8.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 8
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57573.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_9.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57574.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_10.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 10
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57575.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_11.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 11
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57576.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_12.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 12
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57577.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_13.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 13
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57578.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_14.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 14
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57579.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_15.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 15
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57580.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_16.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 16
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57581.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_17.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 17
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57582.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_18.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 18
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57583.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_LIVE_19.png" group-title="FR | CANAL+ LIVE VIP",FR: CANAL+ LIVE 19
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57584.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MCM.png" group-title="FR | LA MUSIQUE",FR: MCM
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8134.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MCM_TOP.png" group-title="FR | LA MUSIQUE",FR: MCM TOP
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8136.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MEZZO.png" group-title="FR | LA MUSIQUE",FR: MEZZO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8138.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MTV.png" group-title="FR | LA MUSIQUE",FR: MTV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8141.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/M6_MUSIC.png" group-title="FR | LA MUSIQUE",FR: M6 MUSIC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25129.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NRJ_HITS.png" group-title="FR | LA MUSIQUE",FR: NRJ HITS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8153.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RFM_TV.png" group-title="FR | LA MUSIQUE",FR: RFM TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8171.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TRACE_URBAN.png" group-title="FR | LA MUSIQUE",FR: TRACE URBAN
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8196.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MELODY.png" group-title="FR | LA MUSIQUE",FR: MELODY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58338.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/franceNew/europe_2_pop_tv.png" group-title="FR | LA MUSIQUE",FR: EUROPE 2 POP TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58349.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MEZZO_LIVE.png" group-title="FR | LA MUSIQUE",FR: MEZZO LIVE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58361.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/KTO.png" group-title="FR | OTHER",FR: KTO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8125.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/LUCKY_JACK_TV.png" group-title="FR | OTHER",FR: LUCKY JACK TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8130.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RTS_2.png" group-title="FR | OTHER",FR: RTS 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8175.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RTS_1.png" group-title="FR | OTHER",FR: RTS 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8176.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TVM_3.png" group-title="FR | OTHER",FR: TVM 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8202.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ASTROCENTER_TV.png" group-title="FR | OTHER",FR: ASTROCENTER TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58342.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MGG_TV.png" group-title="FR | OTHER",FR: MGG TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58362.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/OLYMPIA_TV.png" group-title="FR | OTHER",FR: OLYMPIA TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58366.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TLC.png" group-title="FR | OTHER",FR: TLC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58368.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TV_MONACO.png" group-title="FR | OTHER",FR: TV MONACO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58369.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CRIME_DISTRICT.png" group-title="FR | LA NATURE",FR: CRIME DISTRICT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8106.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ANIMAUX.png" group-title="FR | LA NATURE",FR: ANIMAUX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8081.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CHASSE_PECHE.png" group-title="FR | LA NATURE",FR: CHASSE & PECHE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8100.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_CHANNEL.png" group-title="FR | LA NATURE",FR: DISCOVERY CHANNEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8017.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/DISCOVERY_INVESTIGATION.png" group-title="FR | LA NATURE",FR: DISCOVERY INVESTIGATION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8019.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/HISTOIRE.png" group-title="FR | LA NATURE",FR: HISTOIRE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8123.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PLANETE.png" group-title="FR | LA NATURE",FR: PLANETE+
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8165.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PLANETE_ADVENTURE.png" group-title="FR | LA NATURE",FR: PLANETE+ ADVENTURE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8166.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PLANETE_CRIME.png" group-title="FR | LA NATURE",FR: PLANETE+ CRIME
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8167.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RMC_DECOUVERTE.png" group-title="FR | LA NATURE",FR: RMC DECOUVERTE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8057.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SCIENCE_VIE.png" group-title="FR | LA NATURE",FR: SCIENCE & VIE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8177.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SEASONS.png" group-title="FR | LA NATURE",FR: SEASONS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8178.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TOUTE_LHISTOIRE.png" group-title="FR | LA NATURE",FR: TOUTE L'HISTOIRE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8193.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/USHUAIA_TV.png" group-title="FR | LA NATURE",FR: USHUAIA TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8203.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_CINEMA.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL+ CINEMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8001.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SERIES.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL+ SERIES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8007.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_CLASSIC.png" group-title="FR | FILMS ET SÉRIES",FR: CINE+ CLASSIC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8009.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_EMOTION.png" group-title="FR | FILMS ET SÉRIES",FR: CINE+ EMOTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8011.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FAMILY.png" group-title="FR | FILMS ET SÉRIES",FR: CINE+ FAMILY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8012.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FRISSON.png" group-title="FR | FILMS ET SÉRIES",FR: CINE+ FRISSON
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8013.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/WARNER_TV.png" group-title="FR | FILMS ET SÉRIES",FR: WARNER TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8206.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NOVELAS_TV.png" group-title="FR | FILMS ET SÉRIES",FR: NOVELAS TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8151.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PARAMOUNT_CHANNEL.png" group-title="FR | FILMS ET SÉRIES",FR: PARAMOUNT CHANNEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8162.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ACTION.png" group-title="FR | FILMS ET SÉRIES",FR: ACTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8078.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TCM_CINEMA.png" group-title="FR | FILMS ET SÉRIES",FR: TCM CINEMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8182.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte1.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8028.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte2.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8029.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte3.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8030.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte4.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8031.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte5.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8032.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte6.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 6
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8033.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte7.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 7
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8034.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte8.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 8
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8035.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte9.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8036.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/alacarte10.png" group-title="FR | FILMS ET SÉRIES",FR: A LA CARTE 10
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8037.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7982.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7983.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7984.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7985.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7986.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 6
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7987.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 7
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7988.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 8
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7989.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7990.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 10
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7991.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 11
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7992.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 12
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7993.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 13
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7994.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 14
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7995.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 15
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7996.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 16
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7997.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 17
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7998.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/canalplay1.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL PLAY 18
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/7999.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_GRAND_ECRAN.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL+ GRAND ÉCRAN
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58334.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_BOX_OFFICE.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL+ BOX OFFICE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58335.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_DOCS.png" group-title="FR | FILMS ET SÉRIES",FR: CANAL+ DOCS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58336.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FESTIVAL.png" group-title="FR | FILMS ET SÉRIES",FR: CINE+ FESTIVAL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58346.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_TV_SERIES.png" group-title="FR | FILMS ET SÉRIES",FR: FRANCE TV SERIES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58359.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/OCS.png" group-title="FR | FILMS ET SÉRIES",FR: OCS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58365.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RMC_STORY.png" group-title="FR | DIVERTISSEMENT",FR: RMC STORY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8058.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CHERIE_25.png" group-title="FR | DIVERTISSEMENT",FR: RMC LIFE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8101.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/POLAR.png" group-title="FR | DIVERTISSEMENT",FR: POLAR+
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8168.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AB_1.png" group-title="FR | DIVERTISSEMENT",FR: AB 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8067.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AB_3.png" group-title="FR | DIVERTISSEMENT",FR: AB 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8068.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BET.png" group-title="FR | DIVERTISSEMENT",FR: BET
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8088.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/COMEDY_CENTRAL.png" group-title="FR | DIVERTISSEMENT",FR: COMEDY CENTRAL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8105.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/COMEDIE.png" group-title="FR | DIVERTISSEMENT",FR: COMEDIE+
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8104.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ENTERTAINMENT.png" group-title="FR | DIVERTISSEMENT",FR: E! ENTERTAINMENT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8107.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MUSEUM.png" group-title="FR | DIVERTISSEMENT",FR: MUSEUM
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8144.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PARIS_PREMIERE.png" group-title="FR | DIVERTISSEMENT",FR: PARIS PREMIERE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8163.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RTL9.png" group-title="FR | DIVERTISSEMENT",FR: RTL9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8174.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SERIE_CLUB.png" group-title="FR | DIVERTISSEMENT",FR: SERIE CLUB
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8179.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SYFY.png" group-title="FR | DIVERTISSEMENT",FR: SYFY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8181.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TEVA.png" group-title="FR | DIVERTISSEMENT",FR: TEVA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8186.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TV_BREIZH.png" group-title="FR | DIVERTISSEMENT",FR: TV BREIZH
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8199.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/13_EME_RUE.png" group-title="FR | DIVERTISSEMENT",FR: 13 EME RUE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/8077.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/natgeowild.png" group-title="FR | DIVERTISSEMENT",FR: NATIONAL GEOGRAPHIC WILD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58394.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/natgeo.png" group-title="FR | DIVERTISSEMENT",FR: NATIONAL GEO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58395.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/fr/T18.png" group-title="FR | DIVERTISSEMENT",FR: T18
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73274.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbc1.png" group-title="ARAB | MBC & MYHD",AR: MBC 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53048.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbc2.png" group-title="ARAB | MBC & MYHD",AR: MBC 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53049.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbc3.png" group-title="ARAB | MBC & MYHD",AR: MBC 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53050.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbc4.png" group-title="ARAB | MBC & MYHD",AR: MBC 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53051.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbc5.png" group-title="ARAB | MBC & MYHD",AR: MBC 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53052.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbcaction.png" group-title="ARAB | MBC & MYHD",AR: MBC ACTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53053.m3u8
+#EXTINF:-1 group-title="ARAB | MBC & MYHD",AR: MBC B4U AFLAM
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53054.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbcbollywood.png" group-title="ARAB | MBC & MYHD",AR: MBC BOLLYWOOD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53055.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbcdrama.png" group-title="ARAB | MBC & MYHD",AR: MBC DRAMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53056.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbcdramaplus.png" group-title="ARAB | MBC & MYHD",AR: MBC DRAMA PLUS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53057.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbcmasr1.png" group-title="ARAB | MBC & MYHD",AR: MBC MASR 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53059.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbcmasr2.png" group-title="ARAB | MBC & MYHD",AR: MBC MASR 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53060.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbcmax.png" group-title="ARAB | MBC & MYHD",AR: MBC MAX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53061.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MBC+VARIETY.jpg" group-title="ARAB | MBC & MYHD",AR: MBC+ VARIETY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53062.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/myfilmbox.png" group-title="ARAB | MBC & MYHD",AR: MYHD FILMBOX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53079.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MYHDFIXIFOXI.jpg" group-title="ARAB | MBC & MYHD",AR: MYHD FIXI FOXI
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53080.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MYHDGULLI.jpg" group-title="ARAB | MBC & MYHD",AR: MYHD GULLI
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53081.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/mbc1.png" group-title="ARAB | MBC & MYHD",AR: MYHD MBC 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53082.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC2.png" group-title="ARAB | MBC & MYHD",AR: MYHD MBC 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53083.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC3.jpg" group-title="ARAB | MBC & MYHD",AR: MYHD MBC 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53084.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC4.jpg" group-title="ARAB | MBC & MYHD",AR: MYHD MBC 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53085.m3u8
+#EXTINF:-1 group-title="ARAB | MBC & MYHD",AR: MYHD MBC ACTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53086.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBCDRAMA.png" group-title="ARAB | MBC & MYHD",AR: MYHD MBC DRAMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53087.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MBCPLUSDRAMA.png" group-title="ARAB | MBC & MYHD",AR: MYHD MBC PLUS DRAMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53088.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/MBCIRAQ.png" group-title="ARAB | MBC & MYHD",AR: MBC IRAQ
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/53058.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="UK",UK: VIP SKY SPORTS F1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29674.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsgolf.png" group-title="UK",UK: VIP SKY SPORTS GOLF
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29679.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsmix.png" group-title="UK",UK: VIP SKY SPORTS MIX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29672.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsfootball.png" group-title="UK",UK: VIP SKY SPORTS FOOTBALL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29677.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-premier-league-uk.png" group-title="UK",UK: VIP SKY SPORTS PREMIER LEAGUE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29676.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sky-sports-cricket-uk.png" group-title="UK",UK: VIP SKY SPORTS CRICKET
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29673.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsarena.png" group-title="UK",UK: VIP SKY SPORTS ARENA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29675.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="UK",UK: VIP SKY SPORTS ACTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29670.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsracing.png" group-title="UK",UK: VIP SKY SPORTS RACING
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29671.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="UK",UK: VIP SKY SPORTS MAIN EVENT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29678.m3u8
+#EXTINF:-1 group-title="UK",UK: VIP Sky Sports NFL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29988.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK",UK: VIP BEIN SPORTS 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29787.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK",UK: VIP BEIN SPORTS 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29788.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK",UK: VIP BEIN SPORTS 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29785.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/beinsports.png" group-title="UK",UK: VIP BEIN SPORTS 7
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29786.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eurosport1.png" group-title="UK",UK: VIP EUROSPORT 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29929.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eurosport2.png" group-title="UK",UK: VIP EUROSPORT 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29928.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eir-sport-1-uk.png" group-title="UK",UK: VIP EIR SPORT 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29681.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/eir-sport-2-uk.png" group-title="UK",UK: VIP EIR SPORT 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29680.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsport1.png" group-title="UK",UK: VIP TNT SPORTS 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29689.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsports2vip.png" group-title="UK",UK: VIP TNT Sports 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29688.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsport3.png" group-title="UK",UK: VIP TNT SPORT 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29687.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/premiersports.png" group-title="UK",UK: VIP PREMIERE SPORTS 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29925.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/premiersports.png" group-title="UK",UK: VIP PREMIER SPORTS 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29930.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsnews.png" group-title="UK",UK: VIP SKY SPORTS NEWS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29918.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportgolf.png" group-title="UK",UK: VIP SUPERSPORT GOLF
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29733.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety4.png" group-title="UK",UK: VIP SUPER SPORT VARIETY 4 (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29734.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportcricket.png" group-title="UK",UK: VIP SUPER SPORTS CRICKET (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29735.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportrugby.png" group-title="UK",UK: VIP SUPERSPORT RUGBY (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29736.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety3.png" group-title="UK",UK: VIP SUPER SPORT VARIETY 3 (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29737.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety1.png" group-title="UK",UK: VIP SUPER SPORT VARIETY 1 (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29738.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportfootball.png" group-title="UK",UK: VIP SUPER SPORTS FOOTBALL (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29739.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportaction.png" group-title="UK",UK: VIP SUPER SPORTS ACTION (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29740.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportvariety2.png" group-title="UK",UK: VIP SUPER SPORT VARIETY 2 (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29741.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportmotorsport.png" group-title="UK",UK: VIP SUPER SPORT MOTORSPORT (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29742.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportgrandstand.png" group-title="UK",UK: VIP SUPER SPORTS GRAND STAND (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29743.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportpsl.png" group-title="UK",UK: VIP SUPER SPORT PSL (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29744.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/supersportlaliga.png" group-title="UK",UK: VIP SUPER SPORTS LALIGA (MATCH TIME)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29745.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/btsportespn.png" group-title="UK",UK: VIP TNT SPORT 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29686.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/laligatv.png" group-title="UK",UK: VIP LALIGA TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29926.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/racing.png" group-title="UK",UK: VIP RACING
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29923.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/skysportsboxoffice.png" group-title="UK",UK: VIP SKY SPORTS BOX OFFICE (EVENT ONLY)
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29915.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/freesports.png" group-title="UK",UK: VIP FREE SPORTS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29927.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cartoonito.png" group-title="UK",UK: VIP CARTOONITO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29690.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cartoonnetwork.png" group-title="UK",UK: VIP CARTOON NETWORK
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29691.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bet.png" group-title="UK",UK: VIP BET
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29692.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvclub.png" group-title="UK",UK: VIP MTV CLUB
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29693.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/five.png" group-title="UK",UK: VIP FIVE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29694.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/UnitedKingsom.png" group-title="UK",UK: VIP H&H
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29695.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/kerrangtv.png" group-title="UK",UK: VIP KERRANG!
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29696.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtv.png" group-title="UK",UK: VIP MTV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29697.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvbase.png" group-title="UK",UK: VIP MTV BASE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29698.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvclassic.png" group-title="UK",UK: VIP MTV CLASSIC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29699.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvdance.png" group-title="UK",UK: VIP MTV DANCE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29700.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvomg.png" group-title="UK",UK: VIP MTV OMG
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29701.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvrocks.png" group-title="UK",UK: VIP MTV ROCKS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29702.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rteone.png" group-title="UK",UK: VIP RTE ONE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29703.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/rtetwo.png" group-title="UK",UK: VIP RTE TWO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29704.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sabtv.png" group-title="UK",UK: VIP SAB TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29705.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonychannel.png" group-title="UK",UK: VIP SONY CHANNEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29706.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/starbharat.png" group-title="UK",UK: VIP STAR BHARAT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29707.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/starztv.png" group-title="UK",UK: VIP STARZ TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29709.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/stv.png" group-title="UK",UK: VIP STV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29710.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tg4.png" group-title="UK",UK: VIP TG 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29711.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/ufcfightpass.png" group-title="UK",UK: VIP UFC FIGHT NIGHT PASS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29712.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/universalchannel.png" group-title="UK",UK: VIP UNIVERSAL CHANNEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29713.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/utv.png" group-title="UK",UK: VIP UTV IRELAND
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29714.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/vh1classic.png" group-title="UK",UK: VIP VH1 CLASSIC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29715.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/viceland.png" group-title="UK",UK: VIP VICELAND
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29716.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/zeecinema.png" group-title="UK",UK: VIP INDIA ZEE CINEMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29717.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/vh1.png" group-title="UK",UK: VIP VH1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29719.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/mtvlive.png" group-title="UK",UK: VIP MTV LIVE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29720.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymoviechannel.png" group-title="UK",UK: VIP SONY MOVIE +1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29729.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymoviesaction.png" group-title="UK",UK: VIP SONY MOVIE ACTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29722.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/sonymoviechannel.png" group-title="UK",UK: VIP SONY MOVIE CHANNEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29721.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tvone.png" group-title="UK",UK: VIP TV ONE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29725.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/virginmedia1.png" group-title="UK",UK: VIP VIRGIN MEDIA 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29726.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/virginmedia2.png" group-title="UK",UK: VIP VIRGIN MEDIA 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29728.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/virginmedia3.png" group-title="UK",UK: VIP VIRGIN MEDIA 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29727.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/bbcscotland.png" group-title="UK",UK: VIP BBC SCOTLAND
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29730.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/4music.png" group-title="UK",UK: VIP 4MUSIC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29731.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/zeetv.png" group-title="UK",UK: VIP INDIA ZEE TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29732.m3u8
+#EXTINF:-1 group-title="UK",UK: VIP BBC FIVE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29746.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/animalplanet.png" group-title="UK",UK: VIP ANIMAL PLANET
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29789.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoverychannel.png" group-title="UK",UK: VIP DISCOVERY CHANNEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29791.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryhistory.png" group-title="UK",UK: VIP DISCOVERY HISTORY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29792.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryscience.png" group-title="UK",UK: VIP DISCOVERY SCIENCE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29793.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryturbo.png" group-title="UK",UK: VIP DISCOVERY TURBO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29795.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/history2.png" group-title="UK",UK: VIP HISTORY 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29796.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/history.png" group-title="UK",UK: VIP HISTORY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29797.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/horseandcountry.png" group-title="UK",UK: VIP HORSE AND COUNTRY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29798.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/discoveryinvestigation.png" group-title="UK",UK: VIP INVESTIGATION DISCOVERY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29799.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/magictv.png" group-title="UK",UK: VIP MAGIC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29800.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/natgeowild.png" group-title="UK",UK: VIP NAT GEO WILD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29801.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/travelchannel.png" group-title="UK",UK: VIP TRAVEL CHANNEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29802.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/yesterday.png" group-title="UK",UK: VIP YESTERDAY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29803.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/redbulltv.png" group-title="UK",UK: VIP RED BULL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29804.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/dave.png" group-title="UK",UK: VIP DAVE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29805.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/e-entertainment-uk.png" group-title="UK",UK: VIP E!
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29806.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/goldtv.png" group-title="UK",UK: VIP GOLD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29807.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv1.png" group-title="UK",UK: VIP ITV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29808.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv2.png" group-title="UK",UK: VIP ITV2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29809.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv3.png" group-title="UK",UK: VIP ITV3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29810.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/itv4.png" group-title="UK",UK: VIP ITV4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29811.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/syfy.png" group-title="UK",UK: VIP SYFY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29812.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/tlc.png" group-title="UK",UK: VIP TLC
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29813.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/watch.png" group-title="UK",UK: VIP WATCH
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29814.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/cbsdrama.png" group-title="UK",UK: VIP CBS DRAMA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29815.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/paramountnetwork.png" group-title="UK",UK: VIP PARAMOUNT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29816.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/uk/qvcbeauty.png" group-title="UK",UK: VIP QVC BEAUTY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29818.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/cou
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: HUSTLER HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73816.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: BLUE HUSTLER
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73817.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: VIVID RED HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73818.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73819.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL XXX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73820.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: BABES TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73821.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: RUSSIAN NIGHT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73822.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: XY MAX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73823.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV ANAL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73824.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV ASIAN
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73825.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV BIG ASS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73826.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV BIG DICK
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73827.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV BIG TITS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73828.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV BLONDE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73829.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV BLOWJOB
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73830.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV BRUNETTE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73831.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV COMPILATION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73832.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV CUCKOLD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73833.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV FETISH
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73834.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV GANGBANG
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73835.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV GAY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73836.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV HARDCORE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73837.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV INTERRACIAL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73838.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV LATINA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73839.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV LESBIAN
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73840.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV LIVE CAMS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73841.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV MILF
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73842.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV PORNSTAR
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73843.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV POV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73844.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV ROUGH
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73845.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV RUSSIAN
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73846.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV TEEN
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73847.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV THREESOME
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73848.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MCTV WOMAN
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73849.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: EXTASY - LEO TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73850.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: DAY WITH A PORNSTAR
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73851.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: DDF NETWORK
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73852.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: DAUGHTER SWAP
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73853.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: TRUE AMATEURS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73854.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PUBLIC AGENT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73855.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: FAMILY HOOKUPS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73856.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: FAMILY STROKES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73857.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: FAKE TAXI
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73858.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: LITTLE CAPRICE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73859.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MIA KHALIFA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73860.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ALBA 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73861.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73862.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73863.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73864.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 6
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73865.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX HD2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73866.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: BANGBROS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73867.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: BLACKED
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73868.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: BLUE HUSTLER
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73869.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: BRAZZERS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73870.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73871.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ERO X
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73872.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: EVIL ANGEL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73873.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: EXXXOTICA TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73874.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: FAKE AGENT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73875.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: GAY ADULT TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73876.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: FRENCH LOVER EUROPE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73877.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: GAY MAX HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73878.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MY PERVY FAMILY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73879.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: NEO GAY 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73880.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PASSIE XXX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73881.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73882.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PRIVATE
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73883.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PRIVE TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73884.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PURETABOO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73885.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: REDLIGHT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73886.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: SECRET CIRCLE TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73887.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: SEXTO SENSO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73888.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: TABOO
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73889.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: VIVIDRED XXX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73890.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: 21 SEXTURY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73891.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: CUM 4K UHD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73892.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: REDLIGHT HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73893.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE QUICKIES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73894.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE GOLD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73895.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: SUPER ONE HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73896.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: XY PLUS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73897.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73898.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE PASSION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73899.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: SEXTREME
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73900.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: XXL
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73901.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: DUSK
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73902.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX: MIAMI TV JENNY LIVE [NOT 24/7]
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73903.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  ERO XXX HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73989.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  XY MIX
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73990.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  ROUGE TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73991.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:   BEATE UHSE.TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73992.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  ALBA XXX 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73993.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  ALBA XXX HD1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73994.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  HOT FHD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73995.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  O LA LA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73996.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  PINK EROTIC 1
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73997.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  PINK O TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73998.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  PLAYBOY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/73999.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  SEXY HOT
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74000.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  VENUS
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74001.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  XY MAX HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74002.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  XY MIX HD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74003.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  MEIDEN VAN HOLLAND HARD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74004.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  CENTO X CENTO TV
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74005.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX-VIP [ 18+ ]",XXX:  TINY 4K UHD
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/74006.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25125.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57344.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/63431.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/54668.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57359.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57476.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5758.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/54535.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/54532.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57362.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA",ES: M+ COPA DEL REY
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58303.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV BAR
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5661.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25128.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25953.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/25954.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5652.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5651.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA",ES: M+ LALIGA TV 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57248.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57560.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57356.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/54531.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57363.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/57367.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58115.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5663.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/58116.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5664.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5665.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5666.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5667.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5668.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5669.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5670.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5685.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5686.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/5687.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://neosfpoo.top:8080/live/7261773076107/c067967e0bb0/29360.m3u8
